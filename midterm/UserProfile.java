@@ -13,6 +13,10 @@
  * code.
  * @author dancye, 2019
  */
+
+
+ // Thomas Alves 
+ //midterm q5
 public class UserProfile 
 {
     
